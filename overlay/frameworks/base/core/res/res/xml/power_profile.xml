@@ -8,8 +8,8 @@
     <item name="wifi.on">3.78</item>
     <item name="wifi.active">135.27</item>
     <item name="wifi.scan">84</item>
-    <item name="dsp.audio">0.1</item>
-    <item name="dsp.video">0.1</item>
+    <item name="audio">0.1</item>
+    <item name="video">0.1</item>
     <item name="ambient.on">0.1</item>
     <item name="audio">0.1</item>
     <item name="video">0.1</item>
