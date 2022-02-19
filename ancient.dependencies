@@ -1,0 +1,38 @@
+[
+   {
+   "remote"       : "github",
+   "repository"   : "ancient-devices/device_asus_sdm660-common",
+   "target_path"  : "device/asus/sdm660-common",
+   "branch"       : "twelve"
+   },
+   {
+   "remote"       : "github",
+   "repository"   : "ancient-devices/vendor_asus_sdm660",
+   "target_path"  : "vendor/asus",
+   "branch"       : "twelve"
+   },
+   {
+   "remote"       : "github",
+   "repository"   : "Vivekachooz/android_kernel_asus_sdm660",
+   "target_path"  : "kernel/asus/sdm660",
+   "branch"       : "hackneyed"
+   },
+   {
+   "remote"       :"github",
+   "repository"   :"AbrarNoob/android_hardware_qcom_media",
+   "target_path"  :"hardware/qcom-caf/msm8998/media",
+   "branch"       :"12"
+   },
+   {
+   "remote"       :"github",
+   "repository"   :"AbrarNoob/android_hardware_qcom_audio",
+   "target_path"  :"hardware/qcom-caf/msm8998/audio",
+   "branch"       :"12"
+   },
+   {
+   "remote"       :"github",
+   "repository"   :"AbrarNoob/android_hardware_qcom_display",
+   "target_path"  :"hardware/qcom-caf/msm8998/display",
+   "branch"       :"12"
+   }
+]
